@@ -1,2 +1,2 @@
 # 3D-Reconstruction
-CSE 152A Final Project
+3D Reconstruction of object based on 49 images using OpenCV
